@@ -1,0 +1,11 @@
+# ラテアート教室ホームページ作成
+- 日付: 2026-09-16
+- 目的: ラテアート教室ホームページの新規作成。
+- 実施内容: 仮称 Latte Atelier。アイボリーとブラウンのレスポンシブサイト。教室紹介、レッスン案、体験の流れ、FAQ、開催情報を実装。
+- 変更ファイル: latte-art-school/index.html、style.css、script.js、README.md、assets/latte.jpg、assets/favicon.svg、output/playwright/desktop.png、output/playwright/mobile.png。
+- 確認: PC幅1440px、スマートフォン390pxと320px。横はみ出しなし。メニュー開閉・Escapeキー・FAQ・開催情報リンクを操作確認。画像正常。最終コンソールエラー0件。PCとスマートフォンの画像を目視確認。
+- 未完了: 正式教室名・料金・開催地・日程・講師・連絡先が未提供。仮称と予定内容を使用。予約受付・一般公開は未実施。
+- ローカル: C:\Users\kaori\latte-art-school
+- 保存結果: 非公開GitHubへpush成功。
+- 保存先: https://github.com/kaori0906iroak-collab/codex-projects/tree/main/latte-art-school
+- コミット: b301673
